@@ -1,0 +1,153 @@
+#!/bin/bash
+
+##################################################
+# A
+##################################################
+#arc-kde
+add-apt-repository -y ppa:papirus/arc-kde
+##################################################
+# B
+##################################################
+#blender
+add-apt-repository -y ppa:thomas-schiex/blender
+#boot-repair
+add-apt-repository -y ppa:yannubuntu/boot-repair 
+#brackets
+add-apt-repository -y ppa:webupd8team/brackets
+##################################################
+# C
+##################################################
+
+##################################################
+# D
+##################################################
+#darktable
+add-apt-repository -y ppa:pmjdebruijn/darktable-release
+#digikam
+add-apt-repository -y ppa:philip5/extra
+#dhor 'converseen' 'luminance-hdr'
+add-apt-repository -y ppa:dhor/myway
+##################################################
+# E
+##################################################
+
+##################################################
+# F
+##################################################
+
+##################################################
+# G
+##################################################
+#gimp
+add-apt-repository -y ppa:otto-kesselgulasch/gimp
+#grub-customizer
+add-apt-repository -y ppa:danielrichter2007/grub-customizer
+##################################################
+# H
+##################################################
+#handbrake
+add-apt-repository -y ppa:ricotz/experimental
+##################################################
+# I
+##################################################
+#inkscape
+add-apt-repository -y ppa:inkscape.dev/stable
+##################################################
+# J
+##################################################
+
+##################################################
+# K
+##################################################
+#kubuntu backports
+#add-apt-repository -y ppa:kubuntu-ppa/backports 
+#krita
+add-apt-repository -y ppa:kritalime/ppa
+#kid3-qt
+add-apt-repository -y ppa:ufleisch/kid3
+#kdenlive
+add-apt-repository -y ppa:sunab/kdenlive-release
+##################################################
+# L
+##################################################
+#libreoffice
+add-apt-repository -y ppa:libreoffice/ppa 
+##################################################
+# M
+##################################################
+
+##################################################
+# N
+##################################################
+#nomacs
+add-apt-repository -y ppa:nomacs/stable
+##################################################
+# O
+##################################################
+
+##################################################
+# P
+##################################################
+#papirus-icon-theme
+add-apt-repository -y ppa:papirus/papirus
+##################################################
+# Q
+##################################################
+#qupzilla
+add-apt-repository -y ppa:nowrep/qupzilla
+#quiterss
+add-apt-repository -y ppa:quiterss/quiterss
+#qbittorrent
+add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable
+##################################################
+# R
+##################################################
+
+##################################################
+# S
+##################################################
+#simplescreenrecorder
+add-apt-repository -y ppa:maarten-baert/simplescreenrecorder
+#scribus
+add-apt-repository -y ppa:scribus/ppa
+#smplayer
+add-apt-repository -y ppa:rvm/smplayer
+##################################################
+# T
+##################################################
+#telegram
+add-apt-repository -y ppa:atareao/telegram
+#teejee
+apt-add-repository -y ppa:teejee2008/ppa
+##################################################
+# U
+##################################################
+#ubuntuhandbook '' ''
+add-apt-repository -y ppa:ubuntuhandbook1/apps
+##################################################
+# V
+##################################################
+#vlc
+add-apt-repository -y ppa:videolan/stable-daily
+#veracrypt
+add-apt-repository -y ppa:unit193/encryption
+##################################################
+# W
+##################################################
+#webupd8
+add-apt-repository -y ppa:nilarimogard/webupd8 
+#wireshark
+add-apt-repository -y ppa:wireshark-dev/stable
+##################################################
+# X
+##################################################
+
+##################################################
+# Y
+##################################################
+
+##################################################
+# Z
+##################################################
+#zenmap
+add-apt-repository -y ppa:pi-rho/security
